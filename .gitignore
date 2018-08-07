@@ -1,0 +1,6 @@
+*
+
+!/.gitignore
+!/ca.conf
+!/generate-ca.sh
+!/generate.sh
